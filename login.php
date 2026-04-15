@@ -68,7 +68,7 @@ if(isset($_POST['login'])){
             </form>
             
             <p class="switch">
-                Don't have an account? <a href="register.php">Register</a>
+                Don't have an account? <a href="register.php">Register now</a>
             </p>
         </div>
     </div>
